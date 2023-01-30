@@ -1,0 +1,22 @@
+# Front-End
+1. Angular.js
+2. Ionic.js
+3. core-js
+4. rxjs
+5. zone.js
+
+# Back-End
+1. bcryptjs
+2. jsonwebtoken
+3. aws-sdk
+4. bcryptjs
+5. body-parser
+6. cors
+7. dotenv
+8. email-validator
+9. express
+10. jsonwebtoken
+11. pg
+12. reflect-metadata,
+13. sequelize
+14. sequelize-typescript
