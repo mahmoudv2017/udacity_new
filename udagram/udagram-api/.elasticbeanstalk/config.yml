@@ -1,6 +1,7 @@
 branch-defaults:
   default:
-    environment: null
+    environment: testEB-dev
+    group_suffix: null
 global:
   application_name: testEB
   branch: null
