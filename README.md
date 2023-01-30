@@ -67,6 +67,36 @@ The e2e tests are using Protractor and Jasmine.
 - [Node](https://nodejs.org) - Javascript Runtime
 - [Express](https://expressjs.com/) - Javascript API Framework
 
+## Link to the hosted website
+ - `http://project-aws592049847296.s3-website-us-east-1.amazonaws.com/home`
+
+# screenshots
+
+## RDS
+- ![](images/rds.PNG)
+- ![](images/rds2.PNG)
+
+## Elastic Beanstalk
+- ![](images/eb.PNG)
+- ![](images/eb2.PNG)
+
+## Application
+- ![](images/application.PNG)
+
+## CircleCI
+- ![](images/full.PNG)
+- ![](images/build.PNG)
+- ![](images/deploy.PNG)
+
+## CircleCI
+- ![](images/s3.PNG)
+
+
+
+
+
+
+
 ## License
 
 [License](LICENSE.txt)
