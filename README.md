@@ -89,7 +89,7 @@ The e2e tests are using Protractor and Jasmine.
 - ![](images/hold.png)
 - ![](images/deploy.PNG)
 
-## CircleCI
+## S3
 - ![](images/s3.PNG)
 
 
